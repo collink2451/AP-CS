@@ -11,5 +11,12 @@ public class Unit3Demo {
         System.out.println(x + " <= " + y + " is " + (x<=y)); // false
         System.out.println(x + " >= " + y + " is " + (x>=y)); // true
         System.out.println(x + " != " + y + " is " + (x!=y)); // true
+
+        int age = 17;
+        if (age > 17) {
+            System.out.println("You're over 17 years old!");
+        } else {
+            System.out.println("You're not over 17 years old!");
+        }
     }
 }
