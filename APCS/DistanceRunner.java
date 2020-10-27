@@ -3,6 +3,8 @@
  * 10/20/2020
  */
 
+package APCS;
+
 import java.util.Scanner;
 
 class Distance {

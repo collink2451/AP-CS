@@ -3,6 +3,8 @@
  * 10/09/2020
  */
 
+package APCS;
+
 import java.util.Scanner;
 
 public class PigLatin {
